@@ -1,0 +1,534 @@
+{
+  "bibleVersion": "lexhamHebrew_na27Greek",
+  "metadataVersion": 0.1,
+  "booksArray": [
+    {
+      "Name": "Genesis",
+      "NumberOfChapters": 50,
+      "TotalWords": 32046,
+      "BookNumberCollection": 1,
+      "BookNumberOverall": 1,
+      "MeanWordsPerChapter": 640
+    },
+    {
+      "Name": "Exodus",
+      "NumberOfChapters": 40,
+      "TotalWords": 25957,
+      "BookNumberCollection": 2,
+      "BookNumberOverall": 2,
+      "MeanWordsPerChapter": 648
+    },
+    {
+      "Name": "Leviticus",
+      "NumberOfChapters": 27,
+      "TotalWords": 18852,
+      "BookNumberCollection": 3,
+      "BookNumberOverall": 3,
+      "MeanWordsPerChapter": 698
+    },
+    {
+      "Name": "Numbers",
+      "NumberOfChapters": 36,
+      "TotalWords": 25048,
+      "BookNumberCollection": 4,
+      "BookNumberOverall": 4,
+      "MeanWordsPerChapter": 695
+    },
+    {
+      "Name": "Deuteronomy",
+      "NumberOfChapters": 34,
+      "TotalWords": 23008,
+      "BookNumberCollection": 5,
+      "BookNumberOverall": 5,
+      "MeanWordsPerChapter": 676
+    },
+    {
+      "Name": "Joshua",
+      "NumberOfChapters": 24,
+      "TotalWords": 15671,
+      "BookNumberCollection": 6,
+      "BookNumberOverall": 6,
+      "MeanWordsPerChapter": 652
+    },
+    {
+      "Name": "Judges",
+      "NumberOfChapters": 21,
+      "TotalWords": 15385,
+      "BookNumberCollection": 7,
+      "BookNumberOverall": 7,
+      "MeanWordsPerChapter": 732
+    },
+    {
+      "Name": "Ruth",
+      "NumberOfChapters": 4,
+      "TotalWords": 2039,
+      "BookNumberCollection": 8,
+      "BookNumberOverall": 8,
+      "MeanWordsPerChapter": 509
+    },
+    {
+      "Name": "1 Samuel",
+      "NumberOfChapters": 31,
+      "TotalWords": 20837,
+      "BookNumberCollection": 9,
+      "BookNumberOverall": 9,
+      "MeanWordsPerChapter": 672
+    },
+    {
+      "Name": "2 Samuel",
+      "NumberOfChapters": 24,
+      "TotalWords": 17170,
+      "BookNumberCollection": 10,
+      "BookNumberOverall": 10,
+      "MeanWordsPerChapter": 715
+    },
+    {
+      "Name": "1 Kings",
+      "NumberOfChapters": 22,
+      "TotalWords": 20361,
+      "BookNumberCollection": 11,
+      "BookNumberOverall": 11,
+      "MeanWordsPerChapter": 925
+    },
+    {
+      "Name": "2 Kings",
+      "NumberOfChapters": 25,
+      "TotalWords": 18784,
+      "BookNumberCollection": 12,
+      "BookNumberOverall": 12,
+      "MeanWordsPerChapter": 751
+    },
+    {
+      "Name": "1 Chronicles",
+      "NumberOfChapters": 29,
+      "TotalWords": 16664,
+      "BookNumberCollection": 13,
+      "BookNumberOverall": 13,
+      "MeanWordsPerChapter": 574
+    },
+    {
+      "Name": "2 Chronicles",
+      "NumberOfChapters": 36,
+      "TotalWords": 21349,
+      "BookNumberCollection": 14,
+      "BookNumberOverall": 14,
+      "MeanWordsPerChapter": 593
+    },
+    {
+      "Name": "Ezra",
+      "NumberOfChapters": 10,
+      "TotalWords": 5605,
+      "BookNumberCollection": 15,
+      "BookNumberOverall": 15,
+      "MeanWordsPerChapter": 560
+    },
+    {
+      "Name": "Nehemiah",
+      "NumberOfChapters": 13,
+      "TotalWords": 8507,
+      "BookNumberCollection": 16,
+      "BookNumberOverall": 16,
+      "MeanWordsPerChapter": 654
+    },
+    {
+      "Name": "Esther",
+      "NumberOfChapters": 10,
+      "TotalWords": 4932,
+      "BookNumberCollection": 17,
+      "BookNumberOverall": 17,
+      "MeanWordsPerChapter": 493
+    },
+    {
+      "Name": "Job",
+      "NumberOfChapters": 42,
+      "TotalWords": 12674,
+      "BookNumberCollection": 18,
+      "BookNumberOverall": 18,
+      "MeanWordsPerChapter": 301
+    },
+    {
+      "Name": "Psalms",
+      "NumberOfChapters": 150,
+      "TotalWords": 30147,
+      "BookNumberCollection": 19,
+      "BookNumberOverall": 19,
+      "MeanWordsPerChapter": 200
+    },
+    {
+      "Name": "Proverbs",
+      "NumberOfChapters": 31,
+      "TotalWords": 9921,
+      "BookNumberCollection": 20,
+      "BookNumberOverall": 20,
+      "MeanWordsPerChapter": 320
+    },
+    {
+      "Name": "Ecclesiastes",
+      "NumberOfChapters": 12,
+      "TotalWords": 4537,
+      "BookNumberCollection": 21,
+      "BookNumberOverall": 21,
+      "MeanWordsPerChapter": 378
+    },
+    {
+      "Name": "Song of Solomon",
+      "NumberOfChapters": 8,
+      "TotalWords": 2020,
+      "BookNumberCollection": 22,
+      "BookNumberOverall": 22,
+      "MeanWordsPerChapter": 252
+    },
+    {
+      "Name": "Isaiah",
+      "NumberOfChapters": 66,
+      "TotalWords": 25608,
+      "BookNumberCollection": 23,
+      "BookNumberOverall": 23,
+      "MeanWordsPerChapter": 388
+    },
+    {
+      "Name": "Jeremiah",
+      "NumberOfChapters": 52,
+      "TotalWords": 33002,
+      "BookNumberCollection": 24,
+      "BookNumberOverall": 24,
+      "MeanWordsPerChapter": 634
+    },
+    {
+      "Name": "Lamentations",
+      "NumberOfChapters": 5,
+      "TotalWords": 2324,
+      "BookNumberCollection": 25,
+      "BookNumberOverall": 25,
+      "MeanWordsPerChapter": 464
+    },
+    {
+      "Name": "Ezekiel",
+      "NumberOfChapters": 48,
+      "TotalWords": 29918,
+      "BookNumberCollection": 26,
+      "BookNumberOverall": 26,
+      "MeanWordsPerChapter": 623
+    },
+    {
+      "Name": "Daniel",
+      "NumberOfChapters": 12,
+      "TotalWords": 9001,
+      "BookNumberCollection": 27,
+      "BookNumberOverall": 27,
+      "MeanWordsPerChapter": 750
+    },
+    {
+      "Name": "Hosea",
+      "NumberOfChapters": 14,
+      "TotalWords": 3615,
+      "BookNumberCollection": 28,
+      "BookNumberOverall": 28,
+      "MeanWordsPerChapter": 258
+    },
+    {
+      "Name": "Joel",
+      "NumberOfChapters": 3,
+      "TotalWords": 1447,
+      "BookNumberCollection": 29,
+      "BookNumberOverall": 29,
+      "MeanWordsPerChapter": 482
+    },
+    {
+      "Name": "Amos",
+      "NumberOfChapters": 9,
+      "TotalWords": 3027,
+      "BookNumberCollection": 30,
+      "BookNumberOverall": 30,
+      "MeanWordsPerChapter": 336
+    },
+    {
+      "Name": "Obadiah",
+      "NumberOfChapters": 1,
+      "TotalWords": 440,
+      "BookNumberCollection": 31,
+      "BookNumberOverall": 31,
+      "MeanWordsPerChapter": 440
+    },
+    {
+      "Name": "Jonah",
+      "NumberOfChapters": 4,
+      "TotalWords": 1082,
+      "BookNumberCollection": 32,
+      "BookNumberOverall": 32,
+      "MeanWordsPerChapter": 270
+    },
+    {
+      "Name": "Micah",
+      "NumberOfChapters": 7,
+      "TotalWords": 2118,
+      "BookNumberCollection": 33,
+      "BookNumberOverall": 33,
+      "MeanWordsPerChapter": 302
+    },
+    {
+      "Name": "Nahum",
+      "NumberOfChapters": 3,
+      "TotalWords": 855,
+      "BookNumberCollection": 34,
+      "BookNumberOverall": 34,
+      "MeanWordsPerChapter": 285
+    },
+    {
+      "Name": "Habakkuk",
+      "NumberOfChapters": 3,
+      "TotalWords": 1011,
+      "BookNumberCollection": 35,
+      "BookNumberOverall": 35,
+      "MeanWordsPerChapter": 337
+    },
+    {
+      "Name": "Zephaniah",
+      "NumberOfChapters": 3,
+      "TotalWords": 1141,
+      "BookNumberCollection": 36,
+      "BookNumberOverall": 36,
+      "MeanWordsPerChapter": 380
+    },
+    {
+      "Name": "Haggai",
+      "NumberOfChapters": 2,
+      "TotalWords": 926,
+      "BookNumberCollection": 37,
+      "BookNumberOverall": 37,
+      "MeanWordsPerChapter": 463
+    },
+    {
+      "Name": "Zechariah",
+      "NumberOfChapters": 14,
+      "TotalWords": 4855,
+      "BookNumberCollection": 38,
+      "BookNumberOverall": 38,
+      "MeanWordsPerChapter": 346
+    },
+    {
+      "Name": "Malachi",
+      "NumberOfChapters": 4,
+      "TotalWords": 1320,
+      "BookNumberCollection": 39,
+      "BookNumberOverall": 39,
+      "MeanWordsPerChapter": 330
+    },
+    {
+      "Name": "Matthew",
+      "NumberOfChapters": 28,
+      "TotalWords": 18346,
+      "BookNumberCollection": 1,
+      "BookNumberOverall": 40,
+      "MeanWordsPerChapter": 655
+    },
+    {
+      "Name": "Mark",
+      "NumberOfChapters": 16,
+      "TotalWords": 11304,
+      "BookNumberCollection": 2,
+      "BookNumberOverall": 41,
+      "MeanWordsPerChapter": 706
+    },
+    {
+      "Name": "Luke",
+      "NumberOfChapters": 24,
+      "TotalWords": 19482,
+      "BookNumberCollection": 3,
+      "BookNumberOverall": 42,
+      "MeanWordsPerChapter": 811
+    },
+    {
+      "Name": "John",
+      "NumberOfChapters": 21,
+      "TotalWords": 15635,
+      "BookNumberCollection": 4,
+      "BookNumberOverall": 43,
+      "MeanWordsPerChapter": 744
+    },
+    {
+      "Name": "Acts",
+      "NumberOfChapters": 28,
+      "TotalWords": 18450,
+      "BookNumberCollection": 5,
+      "BookNumberOverall": 44,
+      "MeanWordsPerChapter": 658
+    },
+    {
+      "Name": "Romans",
+      "NumberOfChapters": 16,
+      "TotalWords": 7111,
+      "BookNumberCollection": 6,
+      "BookNumberOverall": 45,
+      "MeanWordsPerChapter": 444
+    },
+    {
+      "Name": "1 Corinthians",
+      "NumberOfChapters": 16,
+      "TotalWords": 6830,
+      "BookNumberCollection": 7,
+      "BookNumberOverall": 46,
+      "MeanWordsPerChapter": 426
+    },
+    {
+      "Name": "2 Corinthians",
+      "NumberOfChapters": 13,
+      "TotalWords": 4477,
+      "BookNumberCollection": 8,
+      "BookNumberOverall": 47,
+      "MeanWordsPerChapter": 344
+    },
+    {
+      "Name": "Galatians",
+      "NumberOfChapters": 6,
+      "TotalWords": 2230,
+      "BookNumberCollection": 9,
+      "BookNumberOverall": 48,
+      "MeanWordsPerChapter": 371
+    },
+    {
+      "Name": "Ephesians",
+      "NumberOfChapters": 6,
+      "TotalWords": 2422,
+      "BookNumberCollection": 10,
+      "BookNumberOverall": 49,
+      "MeanWordsPerChapter": 403
+    },
+    {
+      "Name": "Philippians",
+      "NumberOfChapters": 4,
+      "TotalWords": 1629,
+      "BookNumberCollection": 11,
+      "BookNumberOverall": 50,
+      "MeanWordsPerChapter": 407
+    },
+    {
+      "Name": "Colossians",
+      "NumberOfChapters": 4,
+      "TotalWords": 1582,
+      "BookNumberCollection": 12,
+      "BookNumberOverall": 51,
+      "MeanWordsPerChapter": 395
+    },
+    {
+      "Name": "1 Thessalonians",
+      "NumberOfChapters": 5,
+      "TotalWords": 1481,
+      "BookNumberCollection": 13,
+      "BookNumberOverall": 52,
+      "MeanWordsPerChapter": 296
+    },
+    {
+      "Name": "2 Thessalonians",
+      "NumberOfChapters": 3,
+      "TotalWords": 823,
+      "BookNumberCollection": 14,
+      "BookNumberOverall": 53,
+      "MeanWordsPerChapter": 274
+    },
+    {
+      "Name": "1 Timothy",
+      "NumberOfChapters": 6,
+      "TotalWords": 1591,
+      "BookNumberCollection": 15,
+      "BookNumberOverall": 54,
+      "MeanWordsPerChapter": 265
+    },
+    {
+      "Name": "2 Timothy",
+      "NumberOfChapters": 4,
+      "TotalWords": 1238,
+      "BookNumberCollection": 16,
+      "BookNumberOverall": 55,
+      "MeanWordsPerChapter": 309
+    },
+    {
+      "Name": "Titus",
+      "NumberOfChapters": 3,
+      "TotalWords": 659,
+      "BookNumberCollection": 17,
+      "BookNumberOverall": 56,
+      "MeanWordsPerChapter": 219
+    },
+    {
+      "Name": "Philemon",
+      "NumberOfChapters": 1,
+      "TotalWords": 335,
+      "BookNumberCollection": 18,
+      "BookNumberOverall": 57,
+      "MeanWordsPerChapter": 335
+    },
+    {
+      "Name": "Hebrews",
+      "NumberOfChapters": 13,
+      "TotalWords": 4953,
+      "BookNumberCollection": 19,
+      "BookNumberOverall": 58,
+      "MeanWordsPerChapter": 381
+    },
+    {
+      "Name": "James",
+      "NumberOfChapters": 5,
+      "TotalWords": 1742,
+      "BookNumberCollection": 20,
+      "BookNumberOverall": 59,
+      "MeanWordsPerChapter": 348
+    },
+    {
+      "Name": "1 Peter",
+      "NumberOfChapters": 5,
+      "TotalWords": 1684,
+      "BookNumberCollection": 21,
+      "BookNumberOverall": 60,
+      "MeanWordsPerChapter": 336
+    },
+    {
+      "Name": "2 Peter",
+      "NumberOfChapters": 3,
+      "TotalWords": 1099,
+      "BookNumberCollection": 22,
+      "BookNumberOverall": 61,
+      "MeanWordsPerChapter": 366
+    },
+    {
+      "Name": "1 John",
+      "NumberOfChapters": 5,
+      "TotalWords": 2141,
+      "BookNumberCollection": 23,
+      "BookNumberOverall": 62,
+      "MeanWordsPerChapter": 428
+    },
+    {
+      "Name": "2 John",
+      "NumberOfChapters": 1,
+      "TotalWords": 245,
+      "BookNumberCollection": 24,
+      "BookNumberOverall": 63,
+      "MeanWordsPerChapter": 245
+    },
+    {
+      "Name": "3 John",
+      "NumberOfChapters": 1,
+      "TotalWords": 219,
+      "BookNumberCollection": 25,
+      "BookNumberOverall": 64,
+      "MeanWordsPerChapter": 219
+    },
+    {
+      "Name": "Jude",
+      "NumberOfChapters": 1,
+      "TotalWords": 461,
+      "BookNumberCollection": 26,
+      "BookNumberOverall": 65,
+      "MeanWordsPerChapter": 461
+    },
+    {
+      "Name": "Revelation",
+      "NumberOfChapters": 22,
+      "TotalWords": 9851,
+      "BookNumberCollection": 27,
+      "BookNumberOverall": 66,
+      "MeanWordsPerChapter": 447
+    }
+  ]
+}
